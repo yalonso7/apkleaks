@@ -2,3 +2,4 @@ numpy
 mock
 m2crypto
 apk_parse_ph4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
